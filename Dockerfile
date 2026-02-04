@@ -1,3 +1,4 @@
+# Zeabur Deployment
 FROM nginx:alpine
 
 # 删除默认配置
